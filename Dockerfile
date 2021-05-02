@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.12
 MAINTAINER Fletcher Nichol <fnichol@nichol.ca>
 
 ENV USER root
